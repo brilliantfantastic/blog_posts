@@ -1,7 +1,0 @@
-C:\DATA\SOURCE\blog_posts\getting_started_with_csla\BrilliantFantastic.Podium\BrilliantFantastic.Podium.Model\bin\Debug\BrilliantFantastic.Podium.Model.dll
-C:\DATA\SOURCE\blog_posts\getting_started_with_csla\BrilliantFantastic.Podium\BrilliantFantastic.Podium.Model\bin\Debug\BrilliantFantastic.Podium.Model.pdb
-C:\DATA\SOURCE\blog_posts\getting_started_with_csla\BrilliantFantastic.Podium\BrilliantFantastic.Podium.Model\bin\Debug\Csla.dll
-C:\DATA\SOURCE\blog_posts\getting_started_with_csla\BrilliantFantastic.Podium\BrilliantFantastic.Podium.Model\bin\Debug\Csla.pdb
-C:\DATA\SOURCE\blog_posts\getting_started_with_csla\BrilliantFantastic.Podium\BrilliantFantastic.Podium.Model\obj\Debug\ResolveAssemblyReference.cache
-C:\DATA\SOURCE\blog_posts\getting_started_with_csla\BrilliantFantastic.Podium\BrilliantFantastic.Podium.Model\obj\Debug\BrilliantFantastic.Podium.Model.dll
-C:\DATA\SOURCE\blog_posts\getting_started_with_csla\BrilliantFantastic.Podium\BrilliantFantastic.Podium.Model\obj\Debug\BrilliantFantastic.Podium.Model.pdb
